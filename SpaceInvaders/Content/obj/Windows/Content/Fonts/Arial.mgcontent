@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/sagih/source/repos/A19-Ex01-SagiHirshfeld-203675319-DavidSidi-204185805/SpaceInvaders/Content/Fonts/Arial.spritefont</SourceFile>
+  <SourceTime>2018-09-24T00:55:46+03:00</SourceTime>
+  <DestFile>C:/Users/sagih/source/repos/A19-Ex01-SagiHirshfeld-203675319-DavidSidi-204185805/SpaceInvaders/Content/bin/Windows/Content/Fonts/Arial.xnb</DestFile>
+  <DestTime>2018-12-31T20:26:57.1405253+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-24T00:55:52+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-24T00:55:52+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

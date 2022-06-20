@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Dedi_MSI/Desktop/temp before exercise 3/A19 Ex03 SagiHirshfeld 203675319 DavidSidi 204185805/SpaceInvaders/Content/Fonts/OptionsFont.spritefont</SourceFile>
+  <SourceTime>2019-02-07T12:50:28+02:00</SourceTime>
+  <DestFile>C:/Users/Dedi_MSI/Desktop/temp before exercise 3/A19 Ex03 SagiHirshfeld 203675319 DavidSidi 204185805/SpaceInvaders/Content/bin/Windows/Content/Fonts/OptionsFont.xnb</DestFile>
+  <DestTime>2019-02-10T20:42:26.349663+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-24T23:04:24+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-24T23:04:24+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
